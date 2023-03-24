@@ -3,10 +3,11 @@ import React from 'react'
 import Dictionary from "./Dictionary"
 
 export default function (App){
-  return(<div className="App">
-    <div className="header">
+  return(
+  <div className="App">
+    <head>
         <h1>English Dictionary</h1>
-         </div>
+        </head>
          <div className="Search">
          <h2>Choose your word:</h2>
            <Dictionary/>

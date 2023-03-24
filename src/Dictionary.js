@@ -23,8 +23,8 @@ function changeWord(event){
     
     return(<div className="Dictionary">
         <form onSubmit={search}>
-            <input type="search" onChange={changeWord}></input>
-            <input type="submit"></input>
+            <input type="search" onChange={changeWord} className="input-search"></input>
+            <input type="submit" value="Search" className="input-submit"></input>
         </form>
         <Results results={results}/>
     </div>);

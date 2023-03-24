@@ -6,7 +6,14 @@ export default function (App){
   return(<div className="App">
     <header>
         <h1>English Dictionary</h1>
-         <Dictionary/>
          </header>
-  <footer>Coded by Sarolta Hegyi</footer></div>)
+         <div className="Search">
+         <h2>Choose your word:</h2>
+           <Dictionary/>
+           </div>
+  <footer>Coded by <a target="_blank"
+            href="https://cool-entremet-69e2c9.netlify.app/"
+            > Sarolta Hegyi</a
+          ></footer>
+  </div>)
 }

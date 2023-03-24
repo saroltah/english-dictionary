@@ -3,7 +3,7 @@ import React from 'react'
 import Dictionary from "./Dictionary"
 
 export default function (App){
-  return(<div>
+  return(<div className="App">
     <header>
         <h1>English Dictionary</h1>
          <Dictionary/>

@@ -5,9 +5,9 @@ import Dictionary from "./Dictionary"
 export default function (App){
   return(
   <div className="App">
-    <head>
+    <header>
         <h1>English Dictionary</h1>
-        </head>
+        </header>
          <div className="Search">
          <h2>Choose your word:</h2>
            <Dictionary/>

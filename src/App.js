@@ -14,6 +14,6 @@ export default function (App){
   <footer>Coded by <a target="_blank"
             href="https://cool-entremet-69e2c9.netlify.app/"
             > Sarolta Hegyi</a
-          ></footer>
+          > and has open source code on <a target="_blank" href="https://github.com/saroltah/english-dictionary">Github</a>. </footer>
   </div>)
 }

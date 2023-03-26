@@ -12,9 +12,10 @@ export default function (App){
          <h2>Choose your word:</h2>
            <Dictionary/>
            </div>
-  <footer>Coded by <a target="_blank"
+  <footer>Coded by<a target="_blank"
             href="https://cool-entremet-69e2c9.netlify.app/"
-            > Sarolta Hegyi</a
-          > and has open source code on <a target="_blank" href="https://github.com/saroltah/english-dictionary">Github</a>. </footer>
+            rel="noreferrer"
+            >{" "}Sarolta Hegyi</a
+          >{" "}and has open source code on{" "}<a target="_blank" href="https://github.com/saroltah/english-dictionary"  rel="noreferrer">Github</a>.</footer>
   </div>)
 }

@@ -1,14 +1,14 @@
-.App {
-text-align: center;
-padding:0px 100px;
-margin:20px auto;}
-
 .App .Search{
 margin:0px auto;
 border: 2px solid rgb(27 51 2);
 margin-top:20px;
 padding-bottom:20px;
 background-color:rgb(246 241 228)}
+
+.App {
+    text-align: center;
+    padding:0px 100px;
+    margin:20px auto;}
 
 .App footer{margin:40px 0px;
 padding:20px 20px;

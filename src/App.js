@@ -1,13 +1,12 @@
 import "./App.css";
 import React from "react";
 import Dictionary from "./Dictionary";
+import Hero from "./Hero";
 
 export default function App() {
   return (
     <div className="App">
-      <header>
-        <h1>English Dictionary</h1>
-      </header>
+    <Hero/>
       <div className="Search">
         <h2>Choose your word:</h2>
         <Dictionary />

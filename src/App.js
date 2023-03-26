@@ -1,7 +1,7 @@
 import "./App.css";
 import React from "react";
 import Dictionary from "./Dictionary";
-import Hero from "./Hero";
+import Hero from "./Hero"
 
 export default function App() {
   return (

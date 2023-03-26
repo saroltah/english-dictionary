@@ -1,6 +1,7 @@
-.App {margin:20px auto;
+.App {
 text-align: center;
-padding:0px 100px}
+padding:0px 100px;
+margin:20px auto;}
 
 .App .Search{
 margin:0px auto;

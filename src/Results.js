@@ -18,8 +18,9 @@ if (props.results)
         })}
         {props.results.meanings.map(function(meaning, index){
 return (<div key={index}>
+    <section>
     <Meaning meaning={meaning}/>
-    
+    </section>
     </div>);
 })
     }

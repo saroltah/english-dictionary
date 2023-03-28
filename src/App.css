@@ -24,4 +24,5 @@ font-family: 'Bad Script', cursive;}
 .App footer a{color:rgb(239 211 242);
 letter-spacing: 7px;}
 
-.App h2{font-family: 'Bad Script', cursive;}
+.App h2{font-family: 'Bad Script', cursive;
+font-size: 28px;}

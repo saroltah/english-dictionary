@@ -8,4 +8,15 @@ border-radius: 20%;
 border-top:3px solid white;
 padding:30px 20px;
 width:80%;
-margin:0 auto;}
+margin:0 auto;
+transition: ease-in-out;}
+
+.Photos img:hover{transform:scale(2);}
+
+@media(max-width:640px){
+    .Photos{
+        padding:5px 5px;
+        width:100%;
+    }
+    .Photos img{width:40%;}
+}

@@ -15,4 +15,16 @@ width:80%;
 line-height:30px;
 }
 
- 
+@media(max-width:640px){
+    .Results h2{
+        font-size: 22px;
+        margin-top:20px;
+    }
+    .Results section {
+margin:0px auto;
+padding:0px 0px;
+font-size: 15px;
+width:98%;
+line-height:20px;
+    }
+}

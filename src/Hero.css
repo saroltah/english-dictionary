@@ -11,3 +11,9 @@ background-repeat: no repeat;}
     font-size:50px;
     font-family: 'Bad Script', cursive;
 color:white;}
+
+@media(max-width:640px){
+    .Hero { height:150px;}
+    .Hero h1{ padding:30px 0px;
+        font-size:30px;}
+    }

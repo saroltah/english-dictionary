@@ -28,3 +28,16 @@ letter-spacing: 7px;}
 
 .App h2{font-family: 'Bad Script', cursive;
 font-size: 28px;}
+
+@media(max-width:640px){
+    .App {
+        padding:0px 0px;
+        margin:0px auto;}
+    .App footer{padding:10px 10px;
+         font-size:15px;}
+     .App footer a{
+         letter-spacing: 5px;}
+     .App h2{
+            font-size: 20px;}
+
+}

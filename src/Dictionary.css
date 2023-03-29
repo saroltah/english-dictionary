@@ -1,4 +1,5 @@
-.Dictionary .input-submit{font-family: 'Bad Script', cursive;
+.Dictionary .input-submit{
+font-family: 'Bad Script', cursive;
 font-size: 20px;
 background-color: white;
 border:1px solid black;
@@ -10,3 +11,8 @@ margin-left:10px;}
     border-radius: 20%;
     font-size: 20px;
     padding:10px;}
+
+    @media(max-width:640px){
+        .Dictionary .input-submit{   font-size: 15px;}
+        .Dictionary .input-search{ font-size: 15px;}
+    }

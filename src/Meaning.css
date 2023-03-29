@@ -3,3 +3,10 @@
 .Meaning em{padding-top:100;}
 .Meaning .Synonyms{margin-top:20px;}
 .Meaning .Example{margin-top:20px;}
+
+@media(max-width:640px){
+    .Meaning p{line-height: 16px;} 
+    .Meaning em{padding-top:70;}
+    .Meaning .Synonyms{margin-top:15px;}
+.Meaning .Example{margin-top:15px;}
+}

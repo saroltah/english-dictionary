@@ -1,2 +1,6 @@
 .Phonetics{font-size: 17px;}
 .Phonetics a{text-decoration: none;}
+
+@media(max-width:640px){
+    .Phonetics{font-size: 15px;}
+}

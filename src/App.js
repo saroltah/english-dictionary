@@ -1,12 +1,12 @@
 import "./App.css";
 import React from "react";
 import Dictionary from "./Dictionary";
-import Hero from "./Hero"
+import Hero from "./Hero";
 
 export default function App() {
   return (
     <div className="App">
-    <Hero/>
+      <Hero />
       <div className="Search">
         <h2>Choose your word:</h2>
         <Dictionary />
@@ -16,7 +16,7 @@ export default function App() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://cool-entremet-69e2c9.netlify.app/"
+          href="https://portfolio-sarolta-hegyi.netlify.app/"
         >
           {" "}
           Sarolta Hegyi

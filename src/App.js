@@ -16,8 +16,7 @@ export default function App() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://portfolio-sarolta-hegyi.netlify.app/"
-        >
+          href="https://saroltah.github.io/portfolio-2024/projects.html">
           {" "}
           Sarolta Hegyi
         </a>{" "}
@@ -25,8 +24,7 @@ export default function App() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://github.com/saroltah/english-dictionary"
-        >
+          href="https://github.com/saroltah/english-dictionary">
           Github
         </a>
         .{" "}

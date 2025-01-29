@@ -16,7 +16,7 @@ export default function App() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://saroltah.github.io/portfolio-2024/projects.html">
+          href="https://saroltah.github.io/portfolio-saroltah/projects.html">
           {" "}
           Sarolta Hegyi
         </a>{" "}

@@ -1,6 +1,6 @@
 .Hero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("/src/images/book\ and\ flower.jpg");
+    url("../images/book\ and\ flower.jpg");
   height: 200px;
   background-size: cover;
   background-position: center;
